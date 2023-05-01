@@ -1,0 +1,14 @@
+{
+  "name": "binary-gap",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "vitest": "^0.30.1"
+  }
+}
